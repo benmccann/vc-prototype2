@@ -1,0 +1,27 @@
+{
+	"labs": [
+		{
+			"id": "visualcommunication",
+			"name": "visual communication lab",
+			"color": "darkorange"
+		},
+		{ "id": "sensor", "name": "sensor lab", "color": "royalblue" },
+		{
+			"id": "computation",
+			"name": "computation lab",
+			"color": "blueviolet"
+		},
+		{ "id": "softsurface", "name": "soft surface lab", "color": "teal" }
+	],
+	"sections": [
+		{ "name": "about" },
+		{ "name": "equipment" },
+		{ "name": "books" },
+		{ "name": "guidelines" }
+	],
+	"machines": [
+		{ "name": "electrical cutter" },
+		{ "name": "manual guillotine" },
+		{ "name": "rotary paper trimmer" }
+	]
+}

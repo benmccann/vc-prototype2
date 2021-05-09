@@ -1,0 +1,57 @@
+@import url("https://use.typekit.net/ypf6erz.css");
+
+@font-face {
+	font-family: Jungka;
+	src: url("/Jungka-Regular.woff2");
+}
+
+html {
+	font-size: 20px;
+}
+
+body {
+	font-family: ff-meta-correspondence-web-p, sans-serif;
+	font-weight: 400;
+
+	/* font-family: ff-meta-web-pro, sans-serif;
+	font-weight: 400; */
+
+	/* font-family: ff-meta-web-pro-condensed, sans-serif;
+	font-weight: 600; */
+
+	font-style: normal;
+	font-synthesis: none;
+	line-height: 1.2;
+
+	-webkit-font-smoothing: antialiased;
+
+	font-family: Jungka;
+	font-weight: 400;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+img {
+	width: 600px;
+	margin: 0 auto;
+	margin-bottom: 1rem;
+}
+
+p {
+	margin-bottom: 1rem;
+}
+
+h2 {
+	border-top: 1px solid;
+}
+
+h2 + p {
+	margin-top: 1rem;
+}
+
+p + h2 {
+	margin-top: 1rem;
+}
